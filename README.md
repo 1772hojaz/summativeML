@@ -1,5 +1,6 @@
 # Lung Disease Prediction Project
-
+Video:
+https://www.loom.com/share/e3abc76b2108404a87daca40193289cf?sid=b9f18276-468f-4686-8da0-7ef618e33036
 ## Overview
 
 This project aims to predict various types of lung diseases using chest X-ray (CXR) images. The goal is to build a reliable deep learning model to aid in early diagnosis, particularly in resource-limited settings. The model classifies 8 different lung diseases and 1 normal case, helping to identify conditions such as pneumonia, tuberculosis, and others early enough to improve patient outcomes.
@@ -9,6 +10,9 @@ This project aims to predict various types of lung diseases using chest X-ray (C
 Lung diseases, especially those like tuberculosis and pneumonia, continue to be leading causes of morbidity and mortality, particularly in Zimbabwe. Early and accurate detection can significantly improve treatment outcomes and reduce healthcare costs. This project focuses on building a model capable of classifying various lung diseases using chest X-ray images.
 
 ## Dataset
+
+link to the dataset: daa lik to the dataseet
+https://www.kaggle.com/datasets/hamu1772/lung-disease
 
 The dataset consists of chest X-ray images categorized into 9 classes (8 lung diseases and 1 normal case). The dataset is divided into training, validation, and testing sets. The images were sourced from publicly available datasets.
 
