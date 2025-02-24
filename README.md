@@ -85,13 +85,3 @@ The CNN Model 4, with its regularization and early stopping, provided the best b
   Using transfer learning with pre-trained models like ResNet or VGG16.
   Performing hyperparameter tuning with a more granular learning rate range.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-We acknowledge the open datasets used in this project and the support of the AI research community.
-
-## Thank You!
-
